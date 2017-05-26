@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="2137" started-at="2017-05-26T06:40:12Z" finished-at="2017-05-26T06:40:14Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2137" started-at="2017-05-26T06:40:12Z" finished-at="2017-05-26T06:40:14Z">
+      <class name="com.hotelbookingTest.HotelBookingSanityTest">
+        <test-method status="PASS" signature="openWebPage()[pri:0, instance:com.hotelbookingTest.HotelBookingSanityTest@6c629d6e]" name="openWebPage" is-config="true" duration-ms="5099" started-at="2017-05-26T07:40:07Z" finished-at="2017-05-26T07:40:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebPage -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:1, instance:com.hotelbookingTest.HotelBookingSanityTest@6c629d6e]" name="verifyPageTitle" duration-ms="74" started-at="2017-05-26T07:40:12Z" finished-at="2017-05-26T07:40:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="insertBookingData()[pri:2, instance:com.hotelbookingTest.HotelBookingSanityTest@6c629d6e]" name="insertBookingData" duration-ms="897" started-at="2017-05-26T07:40:12Z" finished-at="2017-05-26T07:40:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insertBookingData -->
+        <test-method status="PASS" signature="deleteLastrecord()[pri:3, instance:com.hotelbookingTest.HotelBookingSanityTest@6c629d6e]" name="deleteLastrecord" duration-ms="1146" started-at="2017-05-26T07:40:13Z" finished-at="2017-05-26T07:40:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteLastrecord -->
+        <test-method status="PASS" signature="closeWebPage()[pri:0, instance:com.hotelbookingTest.HotelBookingSanityTest@6c629d6e]" name="closeWebPage" is-config="true" duration-ms="3933" started-at="2017-05-26T07:40:14Z" finished-at="2017-05-26T07:40:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWebPage -->
+      </class> <!-- com.hotelbookingTest.HotelBookingSanityTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
